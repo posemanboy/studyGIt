@@ -5,5 +5,5 @@ Git tracks changes.
 Creating a new branch is quick & simple.
 so 123.
 add feature and push to remote.
-version 1.0
+version 1.1.
 
